@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/sarut/Downloads/airwavy_ui/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/sarut/Downloads/airwavy_ui/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/sarut/Downloads/airwavy_ui/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/sarut/Downloads/airwavy_ui/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/sarut/Downloads/airwavy_ui/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/sarut/Downloads/airwavy_ui/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/sarut/Downloads/airwavy_ui/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/sarut/Downloads/airwavy_ui/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/sarut/Downloads/airwavy_ui/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/sarut/Downloads/airwavy_ui/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/sarut/Downloads/airwavy_ui/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/sarut/Downloads/airwavy_ui/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/sarut/Downloads/airwavy_ui/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/sarut/Downloads/airwavy_ui/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/sarut/Downloads/airwavy_ui/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/sarut/Downloads/airwavy_ui/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/sarut/Downloads/airwavy_ui/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/sarut/Downloads/airwavy_ui/ios/Flutter/Flutter.framework/Headers/Flutter.h

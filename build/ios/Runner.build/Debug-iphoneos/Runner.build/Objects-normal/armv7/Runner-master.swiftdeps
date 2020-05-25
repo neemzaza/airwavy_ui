@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "d00ad0bfe0e86019a2e5f4e12225521b"
+build_time: [1590332355, 708488000]
+inputs:
+  "/Users/sarut/Downloads/airwavy_ui/ios/Runner/AppDelegate.swift": [1589393749, 0]
